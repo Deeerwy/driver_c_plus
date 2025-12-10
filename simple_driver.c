@@ -7,7 +7,7 @@
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Dmitry");
-MODULE_DESCRIPTION("Simple character device driver");
+MODULE_DESCRIPTION("Simple character device driver FOR KING ARTUR");
 MODULE_VERSION("1.0");
 
 // Имя устройства
